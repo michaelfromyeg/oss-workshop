@@ -4,7 +4,7 @@ title:
 author:
 - Michael DeMarco
 theme:
-- Copenhagen
+- Pittsburgh
 date:
 - October 18th, 2022
 ---

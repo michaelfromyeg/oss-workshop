@@ -1,5 +1,5 @@
 slides: docs/SLIDES.md
-	pandoc -t beamer docs/SLIDES.md -V theme:Warsaw -o docs/SLIDES.pdf
+	pandoc -t beamer docs/SLIDES.md -V theme:Pittsburgh -V linkcolor:blue -o docs/SLIDES.pdf
 
 .PHONY: open clean
 
