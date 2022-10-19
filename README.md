@@ -30,7 +30,7 @@ Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_t
 |-----------------|-----------------------------------------------------------------------------|------------------------------------------------------------|
 | Michael DeMarco | [GitHub](https://github.com/michaelfromyeg/) and @michaelfromyeg elsewhere  | To give back to the developer community!                   |
 |                 |                                                                             |                                                            |
-
+| Quinn Tao | github.com/t-quinn-t/oss-workshop/ | for fun |
 ## Resources
 
 - [Good First Issue](https://goodfirstissues.com)
