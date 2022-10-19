@@ -28,8 +28,11 @@ Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_t
 
 | Name            | Link (GitHub, portfolio, Instagram, etc.)                                        | Why do you want to learn how to contribute to open source? |
 |-----------------|----------------------------------------------------------------------------------|------------------------------------------------------------|
-| Michael DeMarco | [GitHub](https://github.com/michaelfromyeg/) and @michaelfromyeg elsewhere       | To give back to the developer community!                   |
-| Heaton Chan     | [GitHub](https://github.com/codingonapotato) and @hellstone_chan on Instagram B) | To give back to the community and build some skills!       |
+| Michael DeMarco | [GitHub](https://github.com/michaelfromyeg/) and @michaelfromyeg elsewhere | To give back to the developer community! |
+| Anna Takeuchi | [Website](https://annatakeuchi.dev/) and [GitHub](https://github.com/annatake/) | To learn how to navigate a large code base |
+| Quinn Tao | github.com/t-quinn-t/oss-workshop/ | for fun |
+| David Zhu | [GitHub](https://github.com/DavidZhu1388) | I have attended the OSS workshop |
+| Heaton Chan | [GitHub](https://github.com/codingonapotato) and @hellstone_chan on Instagram B) | To give back to the community and build some skills! |
 
 ## Resources
 
