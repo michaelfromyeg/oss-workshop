@@ -29,7 +29,7 @@ Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_t
 | Name            | Link (GitHub, portfolio, Instagram, etc.)                                   | Why do you want to learn how to contribute to open source? |
 |-----------------|-----------------------------------------------------------------------------|------------------------------------------------------------|
 | Michael DeMarco | [GitHub](https://github.com/michaelfromyeg/) and @michaelfromyeg elsewhere  | To give back to the developer community!                   |
-|                 |                                                                             |                                                            |
+| John Smith | I don't use GitHub | I don't know why I'm here |
 
 ## Resources
 
