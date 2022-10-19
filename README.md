@@ -26,10 +26,10 @@ A hands-on introduction to open source, with a focus on contributing to Hacktobe
 
 Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_tables). Add your name to this table with a PR!
 
-| Name            | Link (GitHub, portfolio, Instagram, etc.)                                  | Why do you want to learn how to contribute to open source? |
-|-----------------|----------------------------------------------------------------------------|------------------------------------------------------------|
-| Michael DeMarco | [GitHub](https://github.com/michaelfromyeg/) and @michaelfromyeg elsewhere | To give back to the developer community!                   |
-| Heaton Chan     | https://github.com/codingonapotato and @hellstone_chan on Instagram B)     | To give back to the community and build some skills!       |
+| Name            | Link (GitHub, portfolio, Instagram, etc.)                                        | Why do you want to learn how to contribute to open source? |
+|-----------------|----------------------------------------------------------------------------------|------------------------------------------------------------|
+| Michael DeMarco | [GitHub](https://github.com/michaelfromyeg/) and @michaelfromyeg elsewhere       | To give back to the developer community!                   |
+| Heaton Chan     | [GitHub](https://github.com/codingonapotato) and @hellstone_chan on Instagram B) | To give back to the community and build some skills!       |
 
 ## Resources
 
