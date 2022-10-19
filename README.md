@@ -30,6 +30,7 @@ Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_t
 |-----------------|-----------------------------------------------------------------------------|------------------------------------------------------------|
 | Michael DeMarco | [GitHub](https://github.com/michaelfromyeg/) and @michaelfromyeg elsewhere  | To give back to the developer community!                   |
 | Anna Takeuchi   | [Website](https://annatakeuchi.dev/) and [GitHub](https://github.com/annatake/) | To learn how to navigate a large code base             |
+| Quinn Tao | github.com/t-quinn-t/oss-workshop/ | for fun |
 
 ## Resources
 
