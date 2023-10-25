@@ -1,12 +1,8 @@
 ---
-title:
-    - A-Very-Hacktober Introduction to Open Source
-author:
-    - Michael DeMarco
-theme:
-    - Pittsburgh
-date:
-    - "2023-10-24 17:30:00"
+title: "A-Very-Hacktober Introduction to Open Source"
+author: "Michael DeMarco"
+theme: "Pittsburgh"
+date: 2023-10-24 17:30:00
 ---
 
 # A-Very-Hacktober Introduction to Open Source
