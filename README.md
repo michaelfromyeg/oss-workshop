@@ -34,6 +34,7 @@ Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_t
 | David Zhu | [GitHub](https://github.com/DavidZhu1388) | I have attended the OSS workshop |
 | Heaton Chan | [GitHub](https://github.com/codingonapotato) and @hellstone_chan on Instagram B) | To give back to the community and build some skills! |
 | Bruce Blore | [Gitlab](https://gitlab.com/0100001001000010) | Help with getting a job, to contribute to programs that I find helpful, and to help me with my skills of reading other people's code |
+| Max Landon | [Github] (https://github.com/Yotter) | I'd like to have the skills to contribute to projects that interest me |
 | Chinmay Bhansali | [GitHub](https://github.com/ChinmayBhansali) | To build my skills and give back to the community |
 
 ## Resources
