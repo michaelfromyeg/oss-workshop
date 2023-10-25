@@ -6,7 +6,7 @@ author:
 theme:
     - Pittsburgh
 date:
-    - 2023-10-24
+    - "2023-10-24 17:30:00"
 ---
 
 # A-Very-Hacktober Introduction to Open Source
