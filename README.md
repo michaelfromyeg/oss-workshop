@@ -26,17 +26,18 @@ A hands-on introduction to open source, with a focus on contributing to Hacktobe
 
 Table created with [Tables Generator](https://www.tablesgenerator.com/markdown_tables). Add your name to this table with a PR!
 
-| Name            | Link (GitHub, portfolio, Instagram, etc.)                                        | Why do you want to learn how to contribute to open source? |
-|-----------------|----------------------------------------------------------------------------------|------------------------------------------------------------|
-| Michael DeMarco | [GitHub](https://github.com/michaelfromyeg/) and @michaelfromyeg elsewhere | To give back to the developer community! |
-| Anna Takeuchi | [Website](https://annatakeuchi.dev/) and [GitHub](https://github.com/annatake/) | To learn how to navigate a large code base |
-| Quinn Tao | github.com/t-quinn-t/oss-workshop/ | for fun |
-| David Zhu | [GitHub](https://github.com/DavidZhu1388) | I have attended the OSS workshop |
-| Heaton Chan | [GitHub](https://github.com/codingonapotato) and @hellstone_chan on Instagram B) | To give back to the community and build some skills! |
-| Bruce Blore | [Gitlab](https://gitlab.com/0100001001000010) | Help with getting a job, to contribute to programs that I find helpful, and to help me with my skills of reading other people's code |
+| Name            | Link (GitHub, portfolio, Instagram, etc.)                                        | Why do you want to learn how to contribute to open source?                                                                           |
+| --------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Michael DeMarco | [GitHub](https://github.com/michaelfromyeg/) and @michaelfromyeg elsewhere       | To give back to the developer community!                                                                                             |
+| Anna Takeuchi   | [Website](https://annatakeuchi.dev/) and [GitHub](https://github.com/annatake/)  | To learn how to navigate a large code base                                                                                           |
+| Quinn Tao       | github.com/t-quinn-t/oss-workshop/                                               | for fun                                                                                                                              |
+| David Zhu       | [GitHub](https://github.com/DavidZhu1388)                                        | I have attended the OSS workshop                                                                                                     |
+| Heaton Chan     | [GitHub](https://github.com/codingonapotato) and @hellstone_chan on Instagram B) | To give back to the community and build some skills!                                                                                 |
+| Bruce Blore     | [Gitlab](https://gitlab.com/0100001001000010)                                    | Help with getting a job, to contribute to programs that I find helpful, and to help me with my skills of reading other people's code |
+| Krusna Balar    | [GitHub](https://github.com/krusnabalar)                                         | To learn working with bigger repos
 | Alizah Irfan |  | Contribute to interesting projects :) |
 | Max Landon | [Github] (https://github.com/Yotter) | I'd like to have the skills to contribute to projects that interest me |
-| Chinmay Bhansali | [GitHub](https://github.com/ChinmayBhansali) | To build my skills and give back to the community |
+| Chinmay Bhansali | [GitHub](https://github.com/ChinmayBhansali) | To build my skills and give back to the community ||
 
 ## Resources
 
